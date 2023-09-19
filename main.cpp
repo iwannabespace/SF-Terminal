@@ -3,7 +3,7 @@
 
 int main()
 {
-    Application app("Terminal");
+    Application app("SF-Terminal");
 
     app.run();
 
